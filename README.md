@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnaRing
 - 👀 I’m interested in becoming a developer  
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently studying Front-End Development
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me @ email anri024@egms.no
 
